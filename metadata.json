@@ -1,0 +1,6 @@
+{
+  "name": "Arduino Obstacle Detector",
+  "description": "A modern presentation and technical guide for building an IR-based obstacle detection system with Arduino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
